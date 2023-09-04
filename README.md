@@ -1,0 +1,1 @@
+# rollercoin-bot
